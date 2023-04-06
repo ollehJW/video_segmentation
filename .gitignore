@@ -1,3 +1,5 @@
-/dataset
+/dataset/color_labels
+/dataset/images
+/dataset/labels
 /result
 /x.png
